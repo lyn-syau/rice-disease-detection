@@ -1,0 +1,9 @@
+# DCA-YOLO dependencies
+# Python 3.10
+
+torch==2.2.2+cu121
+torchvision==0.17.2+cu121
+ultralytics==8.3.9
+opencv-python==4.10.0.84
+numpy==1.26.4
+Pillow==12.1.1
